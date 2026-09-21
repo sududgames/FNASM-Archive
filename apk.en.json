@@ -1,0 +1,15 @@
+{
+  "site": {
+    "title": "FNASM Archive",
+    "subtitle": "FNAF SIMULATOR game archive · APK file catalog",
+    "footer": "Unofficial archive, game by Dosuanchik"
+  },
+  "apps": [
+    {
+      "id": "app-1",
+      "desc": "Classic version of FNASM with most easter eggs.",
+      "ver": "6.0",
+      "file": "https://github.com/sududgames/FNASM-Arxive/releases/download/apk/6.0.apk"
+    }
+  ]
+}
