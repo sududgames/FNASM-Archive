@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "FNASM Arxive",
+    "title": "FNASM Archive",
     "subtitle": "Архив игры FNAF SIMULATOR · Каталог APK-файлов",
     "footer": "Архив неофициальный, автор игры — Dosuanchik"
   },
@@ -9,13 +9,13 @@
       "id": "app-1",
       "desc": "Классическая версия FNASM с большинством пасхалок.",
       "ver": "6.0",
-      "file": "https://github.com/sududgames/FNASM-Arxive/releases/download/apk/6.0.apk"
+      "file": "https://github.com/sududgames/FNASM-Archive/releases/download/apk/6.0.apk"
     },
     {
       "id": "app-2",
-      "desc": "Версия FNASM с сломанным освещением и без сенсорного управления.",
+      "desc": "Версия FNASM со сломанным освещением и без сенсорного управления.",
       "ver": "3.0",
-      "file": "https://github.com/sududgames/FNASM-Arxive/releases/download/apk/3.0.apk"
+      "file": "https://github.com/sududgames/FNASM-Archive/releases/download/apk/3.0.apk"
     }
   ]
 }
