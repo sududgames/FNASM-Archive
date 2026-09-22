@@ -9,7 +9,13 @@
       "id": "app-1",
       "desc": "Classic version of FNASM with most easter eggs.",
       "ver": "6.0",
-      "file": "https://github.com/sududgames/FNASM-Arxive/releases/download/apk/6.0.apk"
+      "file": "https://github.com/sududgames/FNASM-Archive/releases/download/apk/6.0.apk"
+    },
+    {
+      "id": "app-2",
+      "desc": "FNASM version with broken lighting and no touch controls.",
+      "ver": "3.0",
+      "file": "https://github.com/sududgames/FNASM-Archive/releases/download/apk/3.0.apk"
     }
   ]
 }
