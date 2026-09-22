@@ -11,5 +11,11 @@
       "ver": "6.0",
       "file": "https://github.com/sududgames/FNASM-Arxive/releases/download/apk/6.0.apk"
     }
+    {
+      "id": "app-2",
+      "desc": "Версия FNASM с сломаным освещением и без сенсорного управления.",
+      "ver": "3.0",
+      "file": "https://github.com/sududgames/FNASM-Arxive/releases/download/apk/6.0.apk"
+    }
   ]
 }
